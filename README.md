@@ -8,6 +8,6 @@
 <!-- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Anything
--->
 - 📫 How to reach me: manasimulay06@gmail.com
+-->
 - 😄 Pronouns: She/Her
