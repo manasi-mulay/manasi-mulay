@@ -3,11 +3,18 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
+
 - 🌱 I’m currently learning C,CPP,Python and Web Development.
 - 👯 I’m looking to collaborate on: Anything I'm cheerful.
-<!-- 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: Anything
-- 📫 How to reach me: manasimulay06@gmail.com
--->
 - 😄 Pronouns: She/Her
+  <br>
+
+    <div>
+    <details active="true">
+        <summary>My WakaTime Stats:</summary>
+
+            <!--START_SECTION:waka-->
+            <!--END_SECTION:waka-->
+
+</details>
+</div>
