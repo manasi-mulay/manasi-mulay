@@ -8,9 +8,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 November, 2020 - 23 November, 2020
+Week: 17 November, 2020 - 24 November, 2020
 
-C          2 hrs 1 min     ████████████████████████▓   98.76 % 
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+C            2 hrs 6 mins    ████████████████████████▒   97.06 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
