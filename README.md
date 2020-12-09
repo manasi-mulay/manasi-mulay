@@ -8,8 +8,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2020 - 07 December, 2020
+Week: 01 December, 2020 - 08 December, 2020
 
-C   1 hr 20 mins    █████████████████████████   100.00 % 
+C   16 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
