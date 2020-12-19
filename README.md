@@ -8,6 +8,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 December, 2020 - 18 December, 2020
+
+C   8 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
