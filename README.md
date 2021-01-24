@@ -8,6 +8,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 January, 2021 - 23 January, 2021
+
+HTML   36 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
