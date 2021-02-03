@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C,CPP,Python and Web Development.
-- 👯 I’m looking to collaborate on: Anything I'm cheerful.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 👯 I’m looking to collaborate on: Web based projects
 - 😄 Pronouns: She/Her
 
 ### My WakaTime Stats!
