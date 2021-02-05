@@ -8,9 +8,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2021 - 03 February, 2021
+Week: 28 January, 2021 - 04 February, 2021
 
-HTML    10 hrs 32 mins  ██████████████████▒░░░░░░   73.13 % 
-CSS     3 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.85 % 
+HTML    10 hrs 39 mins  ██████████████████░░░░░░░   71.34 % 
+CSS     4 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   28.64 % 
 ```
 <!--END_SECTION:waka-->
