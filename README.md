@@ -8,12 +8,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 February, 2021 - 22 February, 2021
+Week: 16 February, 2021 - 23 February, 2021
 
-HTML         13 hrs 59 mins  █████████████████████▒░░░   84.88 % 
-CSS          1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+HTML         13 hrs 57 mins  █████████████████████▒░░░   85.59 % 
+CSS          1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
