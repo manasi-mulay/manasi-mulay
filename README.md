@@ -8,10 +8,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
+Week: 22 February, 2021 - 01 March, 2021
 
-HTML         2 hrs 8 mins    ███████████████████████▓░   94.02 % 
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+HTML       1 hr 9 mins     █████████████████████████   99.56 % 
 ```
 <!--END_SECTION:waka-->
