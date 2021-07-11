@@ -8,10 +8,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 July, 2021 - 09 July, 2021
+Week: 04 July, 2021 - 10 July, 2021
 
-HTML         2 hrs 44 mins   ███████████████████████▓░   95.27 % 
-CSS          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+HTML         1 hr 51 mins    ███████████████████████▓░   94.87 % 
+CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 <!--END_SECTION:waka-->
