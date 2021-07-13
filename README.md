@@ -8,9 +8,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 July, 2021 - 11 July, 2021
+Week: 06 July, 2021 - 12 July, 2021
 
-HTML         3 mins          █████████████▓░░░░░░░░░░░   54.26 % 
-TypeScript   2 mins          ███████████▒░░░░░░░░░░░░░   45.74 % 
+HTML         27 mins         ██████████████████████▓░░   90.25 % 
+TypeScript   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 ```
 <!--END_SECTION:waka-->
