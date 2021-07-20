@@ -8,8 +8,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 July, 2021 - 18 July, 2021
-
-HTML       23 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
