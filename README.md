@@ -8,6 +8,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 September, 2021 - 08 September, 2021
+
+PHP       1 min           ████████████████▒░░░░░░░░   64.80 % 
 ```
 <!--END_SECTION:waka-->
