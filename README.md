@@ -8,11 +8,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
-
-HTML         45 mins         █████████▓░░░░░░░░░░░░░░░   39.19 % 
-CSS          38 mins         ████████▒░░░░░░░░░░░░░░░░   33.05 % 
-JavaScript   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 % 
-Text         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
