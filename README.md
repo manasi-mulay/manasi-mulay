@@ -8,6 +8,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 October, 2021 - 19 October, 2021
+
+C            19 mins         █████████████▒░░░░░░░░░░░   53.29 % 
+C++          13 mins         █████████▒░░░░░░░░░░░░░░░   37.68 % 
+Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 <!--END_SECTION:waka-->
