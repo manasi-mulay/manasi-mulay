@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2021 - 24 October, 2021
+Week: 19 October, 2021 - 25 October, 2021
 
 C            19 mins         █████████████▒░░░░░░░░░░░   53.29 % 
 C++          13 mins         █████████▒░░░░░░░░░░░░░░░   37.68 % 
